@@ -1,5 +1,5 @@
 {
-  "name": "react-scripts",
+  "name": "rekt-scripts",
   "version": "3.3.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
@@ -24,7 +24,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "rekt-scripts": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
